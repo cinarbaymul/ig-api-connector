@@ -6,7 +6,5 @@ This repo aims to build a python package to facilitate connection to the IG trad
 
 You can initiate a connection by passing the following arguments:
 
-'''
 ig_connect( account_type = ['live', 'demo'], key = string, user_id = string, password = string)
-'''
 
